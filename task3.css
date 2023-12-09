@@ -1,0 +1,65 @@
+.column1{
+	background-color: maroon;width: 50%;height: 1000px;float: left;
+}
+.p1{
+	color: white; text-align: center;margin-top: 200px;font-size: 80px;
+}
+.p2{
+	color:black;text-align: center; margin-top: -50px;font-size: 20px;
+}
+.p3{
+	color:black;text-align: center;
+}
+.column2{
+	background-color: maroon;width: 50%;height: 1000px;float: left;
+}
+.input-group{
+	border: 1px solid white;padding:15px 15px;margin-top: 100px; width: 500px;padding-left: 10px;position: relative;left: 10px;
+}
+.name{
+	"color: white;
+}
+.input-group2{
+	border: 1px solid white;padding:15px 15px ;margin: 10px;width: 500px;
+}
+.email{
+	color: white;
+}
+.innput-group3{
+	border: 1px solid white;padding:15px 15px ;margin: 10px;width: 500px;
+}
+.organisation{
+	color: white;
+}
+.p4{
+	color:black;
+}
+.p5{
+   color:white;
+}
+.checkbox{
+	color:white;
+}
+.input-group8{
+	border: 1px solid white;padding:15px 15px;margin-top: 10px; width: 500px;padding-left: 10px;position: relative;left: 10px;
+}
+.red{
+	color: white;
+}
+.checkbox5{
+	color:white;
+}
+
+.skyblue{
+	color: black; font-size:30px;text-align: center;
+}
+.lightred{
+	float: right; -ms-transform:rotate(180 degree)
+}
+
+.button8{
+	widht:480px;height: 60px; margin-top: 10px; font-size: 30px;
+}
+.img11{
+	width:100px; height:100px;float:right;margin-top:100px;
+}
